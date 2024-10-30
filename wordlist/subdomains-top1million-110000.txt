@@ -9529,7 +9529,6 @@ autodiscover.business
 autoconfig.sports
 sdf
 webdisk.business
-#www
 webdisk.fb
 shp
 winfm
@@ -10578,7 +10577,6 @@ mrp
 sou
 paygate
 sailor
-#mail
 billpay
 itp
 volta
@@ -47703,7 +47701,6 @@ ftp.upload
 xinwen
 bast
 s1215
-#smtp
 checking
 picture1
 wilco
@@ -91947,7 +91944,6 @@ bsn
 monsieur64-com
 spoool-cojp
 hilucon-com
-xn--nckxa3g7cq2b5304djmxc-biz
 sundesu-com
 kpc-entertainment-com
 gary01-com
@@ -92032,7 +92028,6 @@ nagochare-org
 xsample55-xsrvjp
 nijiironokoe-com
 doorico-net
-xn--cckcdp5nyc8g2837ahhi954c-jp
 viteras-jp
 gscsrv-xsrvjp
 kaedefa-com
@@ -92063,7 +92058,6 @@ koubesannomiyaconh-com
 s-plat-jp
 xsample302-xsrvjp
 yumepocky-com
-xn--28j4bvdyc334s6knv0o-net
 trend-toybox-com
 matsuya-bento-com
 fandp-biz
@@ -92091,7 +92085,6 @@ kuma8088-com
 sarasarahair-net
 gundoujo-net
 a-jingumae-com
-xn--ruqs6f40az48fx3pk4y-com
 ms-kun-com
 x007-biz
 xsample86-xsrvjp
@@ -92179,7 +92172,6 @@ onna-hitoritabi-com
 suemasa-cojp
 rimtam-com
 niji-web-net
-xn--7ck2d4a8083aybt3yv-com
 value-stone-com
 japan-smilist-org
 logo-cookie-com
@@ -92230,7 +92222,6 @@ nishisawa-com
 apricotpark-xsrvjp
 manamazu-net
 lcfp-jp
-xn--n8jwkwb3d155rfvd1osyt9a-com
 jpcg-cojp
 yamazumi-info
 kankyotou-jp
@@ -92251,7 +92242,6 @@ saeki-ce-xsrvjp
 j-sp-net
 shunan-rh-jp
 xsample124-xsrvjp
-xn--u9jy52g80cpwok9qjzosrpsxue7ghkv-com
 misawasi-com
 creva-xsrvjp
 tvkansou-info
@@ -92293,7 +92283,6 @@ plan-do-japan-com
 greenbird-net-com
 macco-xsrvjp
 test-xsample222-xserver-com
-xn--u9jxfma8gra4a5989bhzh976brkn72bo46f-com
 arths-net-xsrvjp
 sunnytrend-info
 test-xinfo357-xserver-com
@@ -92305,7 +92294,6 @@ ecobaza-com
 dreamcreate-jp
 singlemalt-club-com
 test-xinfo347-xserver-com
-xn--ecki4eoz9849l-biz
 www.daleel
 macshoppe-com
 gz-burst-xsrvjp
@@ -92315,7 +92303,6 @@ yonsei-tounyu-com
 xsample54-xsrvjp
 hanabicon-com
 lucky555-xsrvjp
-xn--y8jvc027l5cav97szrms90clsb-com
 sennokyaku-com
 biznsr-xsrvjp
 nikken-n-com
@@ -92381,7 +92368,6 @@ shonensanso-com
 mikurencia-com
 ndc-office-com
 xinfo350-xsrvjp
-xn--lckxc7c-com
 xsample69-xsrvjp
 nikko-shaken-com
 xinfo342-xsrvjp
@@ -92399,7 +92385,6 @@ ex-profit-biz
 cosmicray-xsrvjp
 linkstyle33-com
 softwaregaming-net
-xn--t8j3b111p8cgqtb3v9a8tm35k-jp
 xsample85-xsrvjp
 morikumado-com
 import-lecture-com
@@ -92427,7 +92412,6 @@ nandemoya-com
 weightlossgains-com
 jikkoujitsugen-com
 keiba-twitter-com
-xn--zck3adi4kpbxc0dh-net
 aajd-biz
 azoo-xsrvjp
 melkare-com
@@ -92497,10 +92481,8 @@ shiki-magokoro-jp
 r-sun24-xsrvjp
 terradonorte-xsrvjp
 sakifuji-com
-xn--new-h93bucszlkray7gqe-jp
 xsample227-xsrvjp
 pay-off-bills-net
-xn--2-uc7a56k9z0ag5f2zfgq0d-jp
 ono-lc-jp
 maihonya-com
 atout-jp
@@ -92519,7 +92501,6 @@ nuutori777-com
 juri-jpnet
 jibundesumaho-com
 zippersoft-jp
-xn--pckam4ohe2b9aya2mf9574hyfduy9g-com
 vstlink-net
 ishikawa-nu-acjp
 maeam-net
@@ -92528,7 +92509,6 @@ ripple-k-com
 publafabbrica-com
 sk66-xsrvjp
 jun-okawa-com
-xn--68j4bva0f0871b88tc-com
 zimbabwecheapflights-com
 okayama-shaken-senmon-com
 acperience-biz
@@ -92555,7 +92535,6 @@ royalsalon-vip-com
 sundubu-xsrvjp
 keage-jp
 motto-tokyojp
-xn--w8jm3fycxc-com
 kampo-yamato-xsrvjp
 mizumotoryu-shinto-com
 ff-spa-com
@@ -92585,7 +92564,6 @@ yosimitu17-com
 otokuna-life-com
 akirasblog-com
 healing-spot-com
-xn--mck0a9jm25le99ae3b91q-com
 inmoss-com
 ryo331-com
 alfastart-net
@@ -92595,7 +92573,6 @@ kouchouen-com
 alfactory-xsrvjp
 specbrothers-com
 1-web-jp
-xn--68jza6c5o5cqhlgz994b-jp
 k-balance-com
 fly-system-biz
 morebeauty-jp
@@ -92612,8 +92589,6 @@ r-m3-jp
 nightworkwe3-com
 toshiki-cc
 makiko2nd-obog-com
-xn--zck3adi4kpbxc7d2131c5g2au9css5o-jp
-xn--u9j5h1btf1e9236atkap9eil-jp
 xsample53-xsrvjp
 buranara-com
 yotsuba-insatsu-com
@@ -92630,7 +92605,6 @@ yukki-lanakila-creations-com
 iruma-mobi
 xinfo522-xsrvjp
 a-koike-grjp
-xn--7-hju882iudfymevpi891bvkcm7t-com
 dateformc-com
 zinen-xsrvjp
 xsample154-xsrvjp
@@ -92655,7 +92629,6 @@ zasso-taisaku-com
 bonbon-chouchoux-com
 sv3rd-com
 asayake-jp
-xn--u9j5h1btf1en15qnfb9z6hxg3a-jp
 genkishop-jp
 aajd-net
 calmcalm-net
@@ -92683,7 +92656,6 @@ tekka-merumaga-com
 xinfo51-xsrvjp
 mckokoro-com
 www.kwp
-xn--54qq0q0en86ikgxilmjza-biz
 papaben-club-com
 hkazuf53-xsrvjp
 crazyken-com
@@ -92717,7 +92689,6 @@ tansan-beauty-com
 hiroshi-project-jp
 sisei-orjp
 baikyaku-kyoto-life-jp
-xn--1cr778h-com
 biz4apple-com
 manten-ff-com
 donnatokimo-info
@@ -92781,7 +92752,6 @@ hospitalities-cojp
 silvers-site-org
 webrent3-xsrvjp
 sawamemo-com
-xn--live-995g-com
 gene-potential-com
 ryukou-butsudan-com
 genko-nyuko-com
@@ -92797,7 +92767,6 @@ ashitakaasatte-com
 meteor7-xsrvjp
 junjimu-jp
 hold-chance-party-com
-xn--t8j9b3du706b3ud-net
 kandasr-com
 kobo-cuoluce-com
 nanba-yasuhei-com
@@ -92857,9 +92826,7 @@ camuro-grjp
 hp-tuneup-com
 threey-net
 6notes-jp
-xn--facebook-9s4goej6w4khkpe-com
 yonago-giken-cojp
-xn--eck3a2bze7g088r1tnu2vn7l46v-com
 2oku-jp
 hunabashi-yabusaki-syaken-com
 endingnote-music-com
@@ -92894,7 +92861,6 @@ kokona922-com
 blackyuushi-com
 its-ec-com
 xsample52-xsrvjp
-xn--qckr4fj9ii2a7e-jp
 api-master-com
 chatoran-com
 joy-circle-com
@@ -93003,7 +92969,6 @@ ht-backyard-xsrvjp
 yumikp-xsrvjp
 w-life-jp
 test-xinfo745-xserver-com
-xn--kckky1j2cwa8f1cb-net
 kotomine-event-info
 e2-square-cojp
 truck-asahi-com
@@ -93013,7 +92978,6 @@ tototoclub-com
 test-xinfo735-xserver-com
 xsample329-xsrvjp
 ro-haircare-jp
-xn--u9j5h1btf1eo45u111ac9hf95c-com
 oo0n-net
 acr-net-xsrvjp
 test-xinfo725-xserver-com
@@ -93070,7 +93034,6 @@ makinos-biz
 bs-mebius-xsrvjp
 ietateru-com
 stakao-net
-xn--t8j0cgq9xucf2ooiyhodz566d8m0a-com
 neko-free-com
 gofun-xsrvjp
 xinfo121a-xsrvjp
@@ -93081,7 +93044,6 @@ libgarden-com
 homare001-com
 kjmail-biz
 sell-car-info
-xn--3kqvs447ab16b-net
 gaobu-xsrvjp
 cipiu-com
 test-xinfo585-xserver-com
@@ -93161,7 +93123,6 @@ gontakun-xsrvjp
 momo00-com
 connect-k-com
 inexpenshop-xsrvjp
-xn--eckm3b6d2a9b3gua9f2d2431c1m6a-com
 everythingdoeswell-com
 test-xsample309-xserver-com
 kanewa-m-com
@@ -93186,7 +93147,6 @@ flets-jp-com
 shdanavi-com
 kurofunemarketing-com
 slashowy-com
-xn--fdkc8h2az097bv1wbh4e-jp
 brens-jp
 nichiei-cojp
 test-aflat-com
@@ -93229,10 +93189,8 @@ l-com-xsrvjp
 rjbb-xsrvjp
 yahabus-com
 e-maku-com
-xn--yckvb0d4245c-jp
 frigus-jp
 kireinadiet-com
-xn--i0tq7meooqf-com
 testxdomain307-com
 ginga-card-com
 izu-xsrvjp
@@ -93247,7 +93205,6 @@ milumoda-xsrvjp
 kumomakurax8-info
 dowkakoh-cojp
 yamatonadeshiko-biz
-xn--39ja4cb4nqb6d4fu546bkkucpl7d-jp
 oita-cando-com
 daiki-suisan-com
 unfixedsystem-com
@@ -93270,7 +93227,6 @@ low-cost-jp
 suemasa-xsrvjp
 silverrush-jp
 excy-biz
-xn--u9j0goar6iyfrb7809ddyvakw0e2vh-biz
 miyake-office-com
 freeken01-com
 dance-studio-itsuki-net
@@ -93294,7 +93250,6 @@ xsample328-xsrvjp
 osakapeer2010-com
 surg2-twmu-jp
 cubik-com-net
-xn--nckuad2au4azb6dvd8fna2594hb0sc-biz
 karadano-com
 heart-full-com
 pasosuku-com
@@ -93405,7 +93360,6 @@ bailojapan-com
 igam-info
 motsuya-olc-com
 catseye-jpncom
-xn--eckm3b6d2a9b3gua9f2d6658ehctafoz-jp
 iine-kawanishi-com
 shonai-ya-com
 kozantyaya-com
@@ -93439,7 +93393,6 @@ avon-shop-jp
 jyuzen-dental-com
 grand-plan-com
 sakabeclinic-com
-xn--line-yn4ckbymxil606bodya-jp
 fujihomes-com
 ehhen-com
 shoda-pack-cojp
@@ -93490,13 +93443,11 @@ chuen-navi-xsrvjp
 xinfo549-xsrvjp
 sabo-kanon-jp
 rikuafijyutu-com
-xn--pride-ym4dqj0d4g-com
 xinfo518-xsrvjp
 test-xinfo716-xserver-com
 ilt2-com
 taku222-com
 honatsugi-con-com
-xn--u9jxhkb1qu36p2lc-com
 ijinjin-xsrvjp
 pethelper-tumugi-com
 turigu-ten-com
@@ -93506,7 +93457,6 @@ minamisenba-yasu-com
 theisao-xsrvjp
 machikado-xsrvjp
 magropan-xsrvjp
-xn--eck7ake2fza4b-jpnet
 shimatomo-com
 kokkoya-net
 mikasasports-asia
@@ -93523,12 +93473,10 @@ membering-jp
 akeru-an-com
 parco-jiyugaoka-cojp
 yellowstone-jp
-xn--zck9awe6d5565ccnra-biz
 sapporo-recycleichiba-com
 eikoudo-com
 kondodenki-jp
 zest-camera-02-com
-xn--cckueqa6319czn9a-com
 iris-eyelash-com
 uttigogogo-com
 testament-xsrvjp
@@ -93547,7 +93495,6 @@ hutako-com
 piano-renshu-com
 e-okinet-com
 9pt-jp
-xn--u8j7b0f9doa5d4g3281ak25ctkc-com
 mystery-room-org
 test-xinfo534-xserver-com
 fbms33-xsrvjp
@@ -93589,7 +93536,6 @@ officetom-xsrvjp
 xinfo550-xsrvjp
 yasumochi-law-net
 mitsutomoltd-com
-xn--zck9awe6d692p972a905d-jp
 eccome-jp
 saitsu-com
 dmd-nejp
@@ -93597,7 +93543,6 @@ sweet-beauty-jp
 yao-ec-cojp
 tiffany-ogoto-com
 isiscoltd-xsrvjp
-xn--tor55ycb159b1ndz7ifa3356d-biz
 giulietta1886-com
 sawadayuya-com
 broslink-cojp
@@ -93608,7 +93553,6 @@ w-clutch-cojp
 nail-aries-com
 amochi-jp
 kpro93-com
-xn--jdka9gb-net
 dorotonyusekken-info
 fx-crosses-com
 drbarkus-com
@@ -93637,7 +93581,6 @@ t-intl-cojp
 paintory-com
 hoken-sukkiri-com
 macross-fanclub-com
-xn--y8j2eb0209aooq-biz
 popcul-net
 mirei-uranai-info
 tukuba-con-com
@@ -93719,7 +93662,6 @@ hidamari-b-jp
 king13-xsrvjp
 s-kensha-com
 cloverhomes-cojp
-xn--zck3adi4kpbxc7d-biz
 subete1-com
 wwwxyz-jp
 gaiaokane-xsrvjp
@@ -93727,7 +93669,6 @@ takaragi-iin-xsrvjp
 wing7878-com
 homard-festa-info
 ohakanomadoguchi-com
-xn--duz45k-com
 archm-com
 shibano222-biz
 volzhsky
@@ -93748,7 +93689,6 @@ evisevis-info
 e-mediasystem-biz
 pier-stone-com
 yusukeaoki-biz
-xn--u9j5h1btf1e330r917aok7b5id-com
 shvideo-biz
 boxystyle-com
 minasayo3734-xsrvjp
@@ -93756,7 +93696,6 @@ clic-clac-jp
 jushin-biz
 kelbox-com
 cer-n-net
-xn--ujqp84atlah52f-com
 koto-note-com
 denritsu-cojp
 cookiec-com
@@ -93769,7 +93708,6 @@ o-bs-cojp
 hotelgranbois-com
 gong-yoo-jp
 aoi-nakamura-net
-xn--news-4c4cuuha3z9b3580f16c-jp
 round-dev-org
 xinfo757-xsrvjp
 test-xsample318-xserver-com
@@ -93813,7 +93751,6 @@ porphyria-jp
 enter-word-com
 tokyo-sundubu-net
 facebook-page-jpncom
-xn--zck3adi4kpbxc7d3858d8zc-com
 jstaf-jp
 cosa-xsrvjp
 himito-com
@@ -93838,7 +93775,6 @@ svcdeaf-org
 cressence-salon-com
 nt-mc-com
 doredoko-xsrvjp
-xn--k9j703lrer-com
 yuhiglass-com
 nakayamaderavet-com
 xinfo127a-xsrvjp
@@ -93857,8 +93793,6 @@ maltholic-com
 makotonohsan-com
 premier-ballet-com
 1streform-jp
-xn--gdkxar8d4dc-com
-xn--n9j8gnb1bza2am-jp
 ishigaki-wedding-jp
 toryburchoutletv-com
 cepavinis-com
@@ -93879,7 +93813,6 @@ sansyu-ya-cojp
 testdomainx322-com
 studio-angel-net
 ba-chi01-com
-xn--zck4ba9kwb1956ag23ad2za-com
 recolon46-biz
 nishiazabu-con-com
 tokyofanhaus-com
@@ -103132,7 +103065,6 @@ cmssandbox
 dobre
 tdh
 s1135b
-#pop3
 video10
 video11
 xchange1
