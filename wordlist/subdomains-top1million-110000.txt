@@ -22,6 +22,7 @@ ns3
 pop3
 forum
 admin
+swagger-ui
 mail2
 vpn
 mx
@@ -74,6 +75,7 @@ mx2
 ads
 ipv4
 remote
+mywalletv1
 email
 my
 wap
