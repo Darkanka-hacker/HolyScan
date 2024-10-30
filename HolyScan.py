@@ -43,7 +43,14 @@ class ScanManager:
 
         nmap_output = stdout.decode('utf-8')
         ip_address, domain = self.extract_ip_and_domain(nmap_output)
+
+        # Check for domain in /etc/hosts if not found in nmap results
+        if not domain:
+            domain = self.lookup_domain_in_hosts(ip_address)
+
+        print(f"DEBUG: Extracted IP: {ip_address}, Domain: {domain}")  # Debugging line
         open_ports = self.extract_open_ports(nmap_output)
+        print(f"DEBUG: Open Ports: {open_ports}")  # Debugging line
         self.trigger_scans(open_ports, ip_address, domain)
         return nmap_output
 
@@ -57,10 +64,27 @@ class ScanManager:
         domain = domain_match.group(1) if domain_match and domain_match.group(1) != 'nmap.org' else None
         return ip_match.group(0) if ip_match else None, domain
 
+    def lookup_domain_in_hosts(self, ip_address):
+        """Check /etc/hosts for a domain associated with the IP address."""
+        try:
+            with open('/etc/hosts', 'r') as hosts_file:
+                for line in hosts_file:
+                    # Split each line and check if the IP matches and there's a valid domain
+                    parts = line.split()
+                    if len(parts) >= 2 and parts[0] == ip_address:
+                        # Return the first entry with only one dot, indicating a root domain
+                        for part in parts[1:]:
+                            if part.count('.') == 1:
+                                print(f"DEBUG: Found domain in hosts file: {part}")  # Debugging line
+                                return part
+        except Exception as e:
+            print(f"Error reading /etc/hosts: {str(e)}")
+        return None
+
     def trigger_scans(self, open_ports, ip_address, domain):
         for port in open_ports:
-            if port == 80 and domain:
-                self.ask_to_add_to_hosts(domain, ip_address)
+            if port == 80:
+                self.run_http_scans(ip_address, domain)
             elif port in self.port_scan_mapping:
                 if port in [389, 3268] and not self.ldap_scan_triggered:
                     self.run_ldap_scan(ip_address, domain)
@@ -70,13 +94,15 @@ class ScanManager:
 
     def run_http_scans(self, ip_address, domain):
         if domain:
+            print(f"DEBUG: Starting both Gobuster and Wfuzz scans for domain: {domain}")  # Debugging line
             self.ui_manager.show_holy_message(f"Running Gobuster and Wfuzz scans for domain: {domain}")
             self.plugin_manager.run_plugin('GobusterPlugin', domain)
             self.plugin_manager.run_plugin('WfuzzPlugin', ip_address, domain)
+            self.got_domain = True
         else:
+            print(f"DEBUG: No domain found. Running only Gobuster with IP: {ip_address}")  # Debugging line
             self.ui_manager.show_holy_message(f"No domain found. Running Gobuster with IP: {ip_address}")
             self.plugin_manager.run_plugin('GobusterPlugin', ip_address)
-        self.got_domain = True
 
     def ask_to_add_to_hosts(self, domain, ip_address):
         full_entry = f"{ip_address} {domain}"
