@@ -97,7 +97,7 @@ class KerberosPlugin:
     def run_smb_scan(self, ip_address):
         """Run the smbscan.py script after the Kerberos scan."""
         smbscan_command = [
-            'python3', '/home/andreas/tools/smbscan/src/smbscan.py',
+            'python3', '/test-needfix/smbscan.py',
             ip_address, '--download-files', '--max-depth', '3'
         ]
 
