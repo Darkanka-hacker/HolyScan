@@ -1,6 +1,9 @@
 # HolyScan
 
+![holyscan-icon](https://github.com/user-attachments/assets/9cb6b069-264b-40fe-aafc-4c7d8cd117d8)
+
 HolyScan is a network scanning tool with a variety of plugins for scanning services like SSH, FTP, WinRM, and more.
+
 
 ## Installation
 
