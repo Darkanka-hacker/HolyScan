@@ -24,6 +24,11 @@ HolyScan is a network scanning tool with a variety of plugins for scanning servi
    ```bash
    python HolyScan.py
    ```
+Note that gobuster is needed for the scanner to fully work.
+```bash
+   https://github.com/OJ/gobuster
+   ```
+
 
 ## Usage
 
