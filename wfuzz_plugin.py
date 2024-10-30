@@ -17,7 +17,7 @@ class WfuzzThread(QThread):
         self.domain = domain
         self.results = []  # To store the scan results
         self.status_word_count = defaultdict(int)  # To count occurrences of (status_code, word_count)
-        self.wordlist_path = '/usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-110000.txt'
+        self.wordlist_path = 'wordlist/subdomains-top1million-110000.txt'
         self.total_words = self.get_wordlist_size()  # Total lines in the wordlist
 
     def run(self):
