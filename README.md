@@ -17,13 +17,13 @@ HolyScan is a network scanning tool with a variety of plugins for scanning servi
    ```
 2. install depenancies
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. Start the scanner:
-```bash
-python HolyScan.py
-```
+   ```bash
+   python HolyScan.py
+   ```
 
 ## Usage
 
