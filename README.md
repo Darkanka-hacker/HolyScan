@@ -22,5 +22,5 @@ pip install -r requirements.txt
 ```
 3. Start the scanner:
 ```bash
-python holyscan.py
+python HolyScan.py
 ```
