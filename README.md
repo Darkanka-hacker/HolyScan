@@ -30,7 +30,19 @@ HolyScan is a network scanning tool with a variety of plugins for scanning servi
 1. Enter the target IP and click “Invoke Holy Scan” to start the process.
 
 
+## What it does:
 
+### FTP - Bruteforce usernames and passwords
+
+### SSH - Bruteforce usernames and passwords submitted by the user, will automatcally prompt the user to start a ssh session if any user was found.
+
+### HTTP - Automatically add domains and finds subdomains, directory scan on the IP or domain (will also scan any found subdomain)
+
+### kerberos - Simple enumeration script
+
+### LDAP - Basic scanning
+
+### WINRM - Bruteforce usernames and passwords submitted by the user, will prompt in the scan results if with the connection command if any user was pwned
 
 ## Legal stuff
 
