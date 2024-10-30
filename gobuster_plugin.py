@@ -13,7 +13,7 @@ class GobusterThread(QThread):
         super().__init__()
         self.ip_address = ip_address
         self.exclude_length = None
-        self.wordlist_path = '/usr/share/wordlists/dirb/common.txt'  # Wordlist path for Gobuster
+        self.wordlist_path = 'wordlist/gobuster.txt'  # Wordlist path for Gobuster
         self.total_lines = self.get_wordlist_size()  # Calculate the total number of lines in the wordlist
 
     def run(self):
