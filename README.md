@@ -27,4 +27,4 @@ python HolyScan.py
 
 ## Usage
 
-1. Insert a IP and press "Invoke Holy Scan
+1. Enter the target IP and click “Invoke Holy Scan” to start the process.
