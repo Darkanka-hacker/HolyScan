@@ -24,3 +24,7 @@ pip install -r requirements.txt
 ```bash
 python HolyScan.py
 ```
+
+## Usage
+
+1. Insert a IP and press "Invoke Holy Scan
