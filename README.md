@@ -10,7 +10,7 @@ HolyScan is a network scanning tool with a variety of plugins for scanning servi
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/HolyScan.git
+   git clone https://github.com/Darkanka-hacker/HolyScan.git
    ```
    ```bash
    cd HolyScan
