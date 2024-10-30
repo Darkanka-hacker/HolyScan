@@ -14,7 +14,7 @@ class FtpScanThread(QThread):
     def run(self):
         """Run the FTP brute-force scan using hydra."""
         command = [
-            'hydra', '-C', '/usr/share/wordlists/seclists/Passwords/Default-Credentials/ftp-betterdefaultpasslist.txt',
+            'hydra', '-C', 'ftp-betterdefaultpasslist.txt',
             f'ftp://{self.ip}'
         ]
         try:
