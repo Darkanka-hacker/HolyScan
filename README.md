@@ -28,3 +28,14 @@ HolyScan is a network scanning tool with a variety of plugins for scanning servi
 ## Usage
 
 1. Enter the target IP and click “Invoke Holy Scan” to start the process.
+
+
+
+
+## Legal stuff
+
+This script is designed solely for educational and authorized security testing purposes. Users are strictly prohibited from using this tool for any unauthorized or malicious activities, including but not limited to scanning or exploiting systems without the explicit permission of the system owner.
+
+Legal Use Only: Ensure you have obtained full, written permission to scan and interact with any IP address or system targeted by this script. Unauthorized use may violate applicable laws and result in serious legal consequences.
+
+By using this script, you agree to abide by these terms and accept full responsibility for any actions performed with it. The developers disclaim all liability for improper or unlawful use.
