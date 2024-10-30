@@ -8,8 +8,15 @@ HolyScan is a network scanning tool with a variety of plugins for scanning servi
 
    ```bash
    git clone https://github.com/yourusername/HolyScan.git
+   
+   ```bash
    cd HolyScan
 
-2. pip install -r requirements.txt
+2. install depenancies
 
-3. python holyscan.py
+```bash
+pip install -r requirements.txt
+
+3. Start the scanner:
+```bash
+python holyscan.py
